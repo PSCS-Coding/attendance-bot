@@ -1,0 +1,13 @@
+{
+    "name": "attendance-bot",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "Milo Rupp <badtzmaru139@gmail.com>",
+    "license": "MIT",
+    "dependencies": {
+        "discord.js": "^11.4.2"
+    },
+    "scripts": {
+        "start": "node index.js"
+    }
+}
